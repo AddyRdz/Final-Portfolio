@@ -10,6 +10,7 @@ Give a high-level overview of the project purpose
 - List all technologies and versions here
 - Include dependencies and versions
 - Note any deployment tools as well
+* Netlify
 
 ## Competencies
 ### JF XX.XX
