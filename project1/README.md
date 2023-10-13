@@ -1,4 +1,4 @@
-## Project #1
+## The Spoonful Blog
 Give a high-level overview of the project purpose
 - What are the users?
 - What job does it form for them?
