@@ -1,10 +1,10 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
+This repository is a collection of some of my key learnings during Sep 2022 - Dec 2023 apprenticeship at Cisco.
 
 ## Overview of Apprenticeship
-- **Host Company**:
-- **Duration**:
+- **Host Company**:Cisco
+- **Duration**:Sep 2022 - Dec 2023
 - **Link to Portfolio Website**:
 
 ## Portfolio Introduction
