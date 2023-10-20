@@ -1,4 +1,5 @@
 ## Popcorn Watch
+Popcorn Watch is a React front end app that was created during our front end module by Deja Clarke and I. It is an app that is meant to attract movie and tv junkies everywhere. On Popcorn Watch you have access to data that is tailored to a selected movie or show. For example, you are able to search any show or movie you can think of, and if its available in the API, you will be able to click the image and you will receive IMBD information about the movie or show. 
 Give a high-level overview of the project purpose
 - What are the users?
 - What job does it form for them?
