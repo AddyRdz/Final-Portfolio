@@ -1,5 +1,12 @@
 ## Popcorn Watch
-Popcorn Watch is a React front end app that was created during our front end module by Deja Clarke and I. It is an app that is meant to attract movie and tv junkies everywhere. On Popcorn Watch you have access to data that is tailored to a selected movie or show. For example, you are able to search any show or movie you can think of, and if its available in the API, you will be able to click the image and you will receive IMBD information about the movie or show. 
+Popcorn Watch is a React front end app that was created during our front end module by Deja Clarke and I. It is an app that is meant to attract movie and tv junkies everywhere. 
+On Popcorn Watch you have access to data that is tailored to each selected movie or show. For example, using the search bad, you are able to search for any show or movie you can think of, and if its available through the API we implemented, you will be able to click the image and you will receive IMBD information about the movie or show. Each search response brings forward movie or show posters that make app much more visually appealing. As the app stands now, it is a great resource for anybody that is trying to get more data on a movie or show.
+
+
+ <img width="976" alt="Screenshot 2023-10-13 at 2 57 29 PM" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/d5b58381-9577-4c71-a9a7-2d9bbf662891">
+   
+   <img width="971" alt="Screenshot 2023-10-13 at 2 58 40 PM" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/7199b666-8fce-46cc-871f-39bff3e6296d">
+
 
 Give a high-level overview of the project purpose
 - What are the users?
@@ -30,6 +37,4 @@ Give a high-level overview of the project purpose
 
 - Connect the competentcy to this project
 
-   <img width="976" alt="Screenshot 2023-10-13 at 2 57 29 PM" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/d5b58381-9577-4c71-a9a7-2d9bbf662891">
-   
-   <img width="971" alt="Screenshot 2023-10-13 at 2 58 40 PM" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/7199b666-8fce-46cc-871f-39bff3e6296d">
+  
