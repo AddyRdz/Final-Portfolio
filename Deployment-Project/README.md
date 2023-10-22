@@ -21,7 +21,7 @@ Give a high-level overview of the project purpose
 - Connect the competentcy to this project
 
 ### JF XX.XX
-- List the full text of the job function first
+- Collaboration List the full text of the job function first
 - Describe a situation where you demonstrated  this job function.
 - Summarize the actions you took to accomplish the goal. 
 - Emphasize the results of this action for your team or your learning. 
