@@ -4,9 +4,9 @@ This repository is a collection of some of my key learnings during Sep 2022 - De
 
 <summary>Table of Contents</summary>
 <ol>
-<li><a href= "#overview of apprenticeship">Overview of Apprenticeship</li>
-<li><a href= "#portfolio introduction">Portfolio Introduction</li>
-<li><a href= "#technical projects">Technical Projects</li>
+<li><a href= "#overview of apprenticeship">Overview of Apprenticeship</a></li>
+<li><a href= "#portfolio introduction">Portfolio Introduction</a></li>
+<li><a href= "#technical projects">Technical Projects</a></li>
 </ol>
 
 ## Overview of Apprenticeship
