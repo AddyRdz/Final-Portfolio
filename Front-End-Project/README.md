@@ -17,7 +17,7 @@ Popcorn Watch is a React front end app that was created during our front end mod
 
 
 #### Result
-
+On Popcorn Watch you are able to search the top movies and shows and receive more information.
 
  <img width="976" alt="Popcorn Watch Home View" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/d5b58381-9577-4c71-a9a7-2d9bbf662891">
    
