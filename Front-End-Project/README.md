@@ -17,7 +17,9 @@ Popcorn Watch is a React front end app that was created during our front end mod
 
 
 #### Result
-On Popcorn Watch you are able to search the top movies and shows and receive more information.
+- On Popcorn Watch you are able to see all the top movies and shows and after clicking the movie or show that interests you, then a box will pop up with information such as the summary, imbd score, and release date. Our goal was to have an app that resembled Netflix a bit and I believe we were able to do that. The Popcorn Watch app displays movies and show posters just like netflix does, and after clicking the item, you get a brief summary which is how it is shown on Netflix. This is great starting point because you can easily add to it, for example create profiles and add authentication to each profile.
+- I learned that a lot can be done in a group if there is constant communication and common goals are established. Also sometimes you have to be much more realistic in your expectations and settle on making sure the feature works before trying to improve it. I loved gaining more knowledge on implementing an API and remembered how important it is to keep your api key secure.
+
 
  <img width="976" alt="Popcorn Watch Home View" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/d5b58381-9577-4c71-a9a7-2d9bbf662891">
    
@@ -38,14 +40,17 @@ On Popcorn Watch you are able to search the top movies and shows and receive mor
   * Netlify
 
 ## Competencies
-### JF XX.XX
+### JF 1.5
+- Can work effectively and contribute appropriately on a team to produce software 
+
 - List the full text of the job function first
 - Describe a situation where you demonstrated  this job function.
 - Summarize the actions you took to accomplish the goal. 
 - Emphasize the results of this action for your team or your learning. 
 - Connect the competentcy to this project
 
-### JF XX.XX
+### JF 6.1
+- Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences
 - Collaboration List the full text of the job function first
 - Describe a situation where you demonstrated  this job function.
 - Summarize the actions you took to accomplish the goal. 
