@@ -26,10 +26,10 @@ List all technologies and versions here
 - Note any deployment tools as well
 
 - Dependencies
- * `npm install`
- * `npm install sequelize`
- * `npm install sqlite 3`
- * `npm install express-oauth2-jwt-bearer`
+  *  `npm install`
+  *  `npm install sequelize`
+  *  `npm install sqlite 3`
+  *  `npm install express-oauth2-jwt-bearer`
 
 ## Competencies
 ### JF XX.XX
