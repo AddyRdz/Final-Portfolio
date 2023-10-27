@@ -4,8 +4,8 @@ Spongebob recipe book is backend database that hold recipes that were created by
 #### Situation
 #### Task
 
-<img width="1205" alt="Screenshot 2023-10-27 at 10 53 32 AM" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/f98a32f6-25b8-4740-9f5f-02cf238e1b1f">
-<img width="827" alt="Screenshot 2023-10-27 at 10 55 27 AM" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/32523a23-4d8b-4fe1-a873-11a1e03a69a4">
+<img width="1205" alt="Proect Board" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/f98a32f6-25b8-4740-9f5f-02cf238e1b1f">
+<img width="827" alt="Wireframe" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/32523a23-4d8b-4fe1-a873-11a1e03a69a4">
 
 #### Action
 #### Result
@@ -21,6 +21,8 @@ Give a high-level overview of the project purpose
 - OAuth2
 - Sequelize
 - sqlite 3
+- Node.js
+- Express.js
 List all technologies and versions here
 - Include dependencies and versions
 - Note any deployment tools as well
