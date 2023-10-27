@@ -2,13 +2,15 @@
 ### Overview
 Spongebob recipe book is backend database that hold recipes that were created by spongebob. In order to be able to access the database you must also sign up through OAuth2.
 #### Situation
-#### Task
+Spongebob's recipe book is a silly fun way that is meant to show you recipes that spongebob has created in his receipe book. In order to be able to access it you must log in through OAuth2.
 
-<img width="1205" alt="Proect Board" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/f98a32f6-25b8-4740-9f5f-02cf238e1b1f">
+<img width="1205" alt="Project Board" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/f98a32f6-25b8-4740-9f5f-02cf238e1b1f">
 <img width="827" alt="Wireframe" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/32523a23-4d8b-4fe1-a873-11a1e03a69a4">
 
 #### Action
 #### Result
+<img width="1189" alt="Postman" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/9c850a43-df06-4887-99b4-54c4f49214ad">
+
 Give a high-level overview of the project purpose
 - What are the users?
 - What job does it form for them?
