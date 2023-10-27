@@ -12,7 +12,7 @@ Popcorn Watch is a React front end app that was created during our front end mod
  <img width="1717" alt="Project Board" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/318c34f8-4607-4bd3-84c3-b436152dd902">
 
 #### Action
-- As a team, we each had different tasks that we were in charge of. I created a profile on the API website in order to be able to receive the API key. After Deja set up a basic react app, she went ahead and set the app up where you could fetch from the API. I realized that our API key was not protected so I changed our files and protected our API key. I also wanted to get more experience in setting up routes in react so I took the libery of setting up our home and shows page. This gave us the opportunity of havimg multiple pages in our app instead of just the home page. Our first nav bar did not have a search section but with the help of bootstrap I was able to implement a search section to our search bar. Deja and I collaborated on creating our logo and I added it to our navigation bar.
+- As a team, we each had different tasks that we were in charge of. I created a profile on the API website in order to be able to receive the API key. After Deja set up a basic react app, she went ahead and set the app up where you could fetch from the API. I realized that our API key was not protected so I changed our files and protected our API key. I also wanted to get more experience in setting up routes in react so I took the liberty of setting up our `routes/home.js` and `routes/shows.js` page. This gave us the opportunity of having multiple pages in our app instead of just the home page. I also added a navigation on `navigation.js` file. Our first nav bar did not have a search section but with the help of bootstrap I was able to implement a search section to our search bar. Deja and I collaborated on creating our logo and I added it to our navigation bar.
 - For the most part we did not run into any serious issues until we started setting up a click module that we had where we could not see the details of our movie. I believe the source of our issue was in the css stylin and with the help of David we were able to solve the issue.
 
 
@@ -49,13 +49,11 @@ Popcorn Watch is a React front end app that was created during our front end mod
 - Emphasize the results of this action for your team or your learning. 
 - Connect the competentcy to this project
 
-### JF 6.1
-- Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences
-- Collaboration List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning.
+### JF 4.1
+- Can interpret and implement a given design while remaining compliant with security and maintainability requirements.						
+- As I mentioned before, when we first implemented our API, we realized that we made ourselves vulnerable by not creating a `.gitignore` file that would hide our API key in an `.env` file. Unfortunately if you commit your sensitive information and push it up to Github you are at risk of getting your API key stolen and used without your consent. 
+- After we found our mistake I immediately suggested that we correct our issue and remove any traces that showed our actual API Key by creating the `.env` file and by monitoring any warnings we could receive on our Github repo.
+- I have found myself before making this mistake and it was good to catch it before it was exposed much longer. This lesson is a great experience that will make sure I am following and taking care of security senstive information. 
 
-- Connect the competentcy to this project
 
   
