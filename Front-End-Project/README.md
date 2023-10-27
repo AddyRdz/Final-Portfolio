@@ -33,8 +33,8 @@ Popcorn Watch is a React front end app that was created during our front end mod
 - https://www.themoviedb.org/
 
 - Dependencies
- * `npm install`
- * `npm start`
+  * `npm install`
+  * `npm start`
 
 - Deployment Tools
   * Netlify
