@@ -41,13 +41,10 @@ Popcorn Watch is a React front end app that was created during our front end mod
 
 ## Competencies
 ### JF 1.5
-- Can work effectively and contribute appropriately on a team to produce software 
-
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+- Can develop effective user interfaces				
+- When first planning Popcorn Watch we knew that we wanted the app to have a cohesive clean feel. Boostrap currently offers different navigation bar components and it was up to me to select the correct one that would be effectively used. in order to choose which one was best I had to compare and see the pros and cons of each component offered. I knew it was important to select a navigation bar that had a search feature because we wanted the user to be able to search shows and movies rapidly. List the full text of the job function first
+- Eventually I choose the navigation bar we used because it has a search component and did not have too much going on. Describe a situation where you demonstrated  this job function.
+- This helped me learn that its important to take the user into consideration when applying components and what their main purpose is.
 
 ### JF 4.1
 - Can interpret and implement a given design while remaining compliant with security and maintainability requirements.						
