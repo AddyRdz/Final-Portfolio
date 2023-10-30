@@ -13,6 +13,7 @@ Spongebob's recipe book is backend database that hold recipes that were created 
 - In order to create this API, our team mostly worked through peer programming. Our focus was trying to get an MVP product and felt that would be better accomplished in teams of two. We also made the decision that each merge needed to be approved by another team member to try to keep mistakes down. 
 - On this API I focused on creating the POST route and afterwards testing to make sure that it worked. When doing this I realized that I could not get the result I wanted on Postman and realized that something must've been off. After looking over the code everything seemed to be right but I was still not receiving the correct results on Postman. After connecting with my team and the my multiverse coaches it came to our realization that the middleware was not at its proper place but after correcting it, it was easy to add the other routes and test using Postman. I was also able to create our Postman API documentation.
 <img width="800" alt="Project Board" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/f98a32f6-25b8-4740-9f5f-02cf238e1b1f">
+
 #### Result
 -In end, Spongebob's recipe book turned out to be a simple API, that had the beginning stages of `OAuth2` implementation. 
 <img width="800" alt="Postman" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/9c850a43-df06-4887-99b4-54c4f49214ad">
