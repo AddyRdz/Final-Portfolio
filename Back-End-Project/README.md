@@ -15,7 +15,8 @@ Spongebob's recipe book is backend database that hold recipes that were created 
 <img width="800" alt="Project Board" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/f98a32f6-25b8-4740-9f5f-02cf238e1b1f">
 
 #### Result
--In end, Spongebob's recipe book turned out to be a simple API, that had the beginning stages of `OAuth2` implementation. 
+- In end, Spongebob's recipe book turned out to be a simple API, that had the beginning stages of `OAuth2` implementation. Our API gives the user the ability to `post`, `delete`, `put`, `edit`, and `get` all the recipes in the recipe book. We also were able to implement `OAuth2` where the user has to log in with their google account in order to gain access to the recipes that are available. Future versions of the app can allow only authorized users access to their own recipes and other protected functions. 
+- I learned in this project that project planning is crucial when dividing our the work and to remember that it is easier to add to a project once you get to MVP. 
 <img width="800" alt="Postman" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/9c850a43-df06-4887-99b4-54c4f49214ad">
 
 ## Technologies 
