@@ -11,17 +11,15 @@ The Spoonful Blog is a full stack React app that allows users to create blog pos
 <img width="827" alt="Screenshot 2023-11-03 at 3 36 19 PM" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/51968336-f8a7-40b8-9a27-42e64d382371">
 <img width="798" alt="Screenshot 2023-11-03 at 3 36 35 PM" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/126bb8b0-95fa-4938-9799-ddfb4e89e7ef">
 
+#### Action
+- At the time that I was working on this module I was working on a ticket for my team that included testing, so I decided I wanted to focus on creating a test for our blog. It ultimately was helpful because we included test action file in our Github actions. I also wrote the seed data that allowed us to have information on our blog as we were building it up. It was very helpful when were using Postman to reference our already created blog posts. I was also able to add the logo we created onto our navigation bar. It was able to help us tie in our logo into our app a bit more.
+- I think one of the most underrated features from our blog app, is that you are able to upload picture links. It really brings the blog posts together when you have an image that is able to provide that extra brightness.
+  
 #### Result
+- In the end we were able to come up with very important lessons, we struggled at the end to figure out our deployment. We were having a lot of errors when we were first trying to deploy our front and back end. But with the help of our Multiverse coaches we were able to resolve the issue and successfully deploy our app on Railway. It definitely made us aware to deploy sooner rather than later because you don't know what kind of problems you might run into.
+  
 ![Screenshot 2023-11-03 at 2 50 47 PM](https://github.com/AddyRdz/Final-Portfolio/assets/95986357/206bbfa2-889f-414b-8657-f388dacf3705)
 <img width="775" alt="Screenshot 2023-11-03 at 2 45 02 PM" src="https://github.com/AddyRdz/Final-Portfolio/assets/95986357/38b57566-cec6-46c6-a343-745a92349c5c">
-
-#### Action
-Give a high-level overview of the project purpose
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
 
 ## Technologies
 - JavaScript
@@ -43,11 +41,8 @@ Give a high-level overview of the project purpose
 ## Competencies
 ### JF 5.2
 - Understands how to test code and analyze results to correct errors found using unit testing
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+- After creating the unit test that was testing our seed data, there were times when changed some of our seed data and then we would get errors on the test I created. It was a nice reminder that if you are using seed data information in your unit test, and you change that information, then you will get errors and that might cause problems.
+- It was a nice resource when debugging because I could go back and see what the test was having issues with. This skill was very helpful when debugging errors that I saw while I was trying to create my own code changes. 
 
 ### JF 5.4
 - Understands and is able to identify and create test scenarios
