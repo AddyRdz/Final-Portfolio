@@ -13,14 +13,16 @@ Give a high-level overview of the project purpose
 * Github Actions
 
 ## Competencies
-### JF XX.XX
+### JF 5.2
+- Understands how to test code and analyze results to correct errors found using unit testing
 - List the full text of the job function first
 - Describe a situation where you demonstrated  this job function.
 - Summarize the actions you took to accomplish the goal. 
 - Emphasize the results of this action for your team or your learning. 
 - Connect the competentcy to this project
 
-### JF XX.XX
+### JF 5.4
+- Understands and is able to identify and create test scenarios
 - Collaboration List the full text of the job function first
 - Describe a situation where you demonstrated  this job function.
 - Summarize the actions you took to accomplish the goal. 
