@@ -37,13 +37,10 @@ Spongebob's recipe book is backend database that hold recipes that were created 
 ## Competencies
 ### JF 1.5
 - Knows how teams work effectively to produce software and how to contribute appropriately
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+- As I mentioned before, we spent the majority of this project working in teams and peer programming. It is very important when peer programming to follow along with whoever is coding and talking through issues that might come up. I spent a lot of time checking on each other and making sure we were able to get through any problems we might be having. For example during our Multiverse meetings we would go over each others task and give updates on how everything was going. This made us be sure that we were contributing and staying on task.
+- In order to be succesfful a lot of time is spent on communicating with each other and understanding how each person works. Once that was determined we were able to be very productive during our meeting times.
 
-### JF 1.5
+### JF 1.6
 - Shows curiosity to the business context in which the solution will be used, displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities, and techniques; the tenacity to improve methods and maximise performance of the solution; and creativity in their approach to solutions.
 - As a team, we were all struggling to decide what exactly would be our MVP. We knew we wanted to create an API but we were struggling to see how we would implement our authorization efforts. We spent so much time trying to focus on how we were going to be able to show what we learned from authorization vs authentication module that we were ignoring a very simple solution that was available to us. I realized that setting up our API with `OAuth2` would fulfill one of our tier goals for our app. I mentioned that this might be our best solution and would not leave us in a time crunch.
 - As a team we set up an OAuth account and configured the necessary settings to our API. After testing and making sure that our API would not reveal information unless you were logged in, we knew that it was a success. In order to configure the app, we had to include all our secrets into an `.env` file and also select some settings from the OAuth site. In the end we were able to be less fixated on trying to force something that had an easier solution. Sometimes it is better to think outside the box. 
