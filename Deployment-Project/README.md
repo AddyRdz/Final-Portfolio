@@ -46,8 +46,5 @@ The Spoonful Blog is a full stack React app that allows users to create blog pos
 
 ### JF 5.4
 - Understands and is able to identify and create test scenarios
-- Collaboration List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+- Given the lack of information we had when we were first creating our blog, we wanted to be able to have that extra requirement when deploying our app so we felt that implementing testing would be a good start. Obviously in order to be able to do that we needed a test situation we were aware that having seed data would fulfill that.
+
