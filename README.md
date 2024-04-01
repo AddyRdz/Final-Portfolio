@@ -2,12 +2,7 @@
 
 This repository is a collection of some of my key learnings during Sep 2022 - Dec 2023 apprenticeship at Cisco. Thru this experience I have been able to complete a front end project, back end project, deployment project, and a hackaton and hope to showcase them here. 
 
-<summary>Table of Contents</summary>
-<ol>
-<li><a href= "#overview of apprenticeship">Overview of Apprenticeship</a></li>
-<li><a href= "#portfolio introduction">Portfolio Introduction</a></li>
-<li><a href= "#technical projects">Technical Projects</a></li>
-</ol>
+
 
 ## Overview of Apprenticeship
 - **Host Company**: Cisco
